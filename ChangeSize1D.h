@@ -21,3 +21,4 @@ void ChangeSize1D(T* &a,int n,int ToSize)
 		a = temp;
 	}
 }
+//版本3
